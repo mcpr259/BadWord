@@ -9,12 +9,12 @@
   "author": "Dandy Raka",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dandyraka/NoBadWord.git"
+    "url": "https://github.com/mcpr259/BadWord.git"
   },
   "bugs": {
-    "url": "https://github.com/dandyraka/NoBadWord/issues"
+    "url": "https://github.com/mcpr259/BadWord/issues"
   },
-  "homepage": "https://github.com/dandyraka/NoBadWord",
+  "homepage": "https://github.com/mcpr259/BadWord",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^2.0.22",
